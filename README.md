@@ -10,10 +10,13 @@
 
   <h2>🪐 오수아 (Frontend Engineer, AI Engineer)</h2>
 
-  <!-- Real-time Typing SVG -->
-  <a href="https://github.com/chki22" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+오수아+%F0%9F%AA%90%E2%9C%A8;60FPS+Spatial+Web+%26+Creative+Frontend+Engineer;Navigating+Geometric+%26+Celestial+3D+Digital+Universes" alt="Typing SVG" />
-  </a>
+ <!-- Real-time Typing SVG -->
+<a href="https://github.com/chki22">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Plus+Jakarta+Sans&amp;weight=700&amp;size=17&amp;duration=3000&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hello+World%21+I%27m+%EC%98%A4%EC%88%98%EC%95%84+%F0%9F%AA%90%E2%9C%A8;60FPS+Spatial+Web+%26+Creative+Frontend+Engineer;Navigating+Geometric+%26+Celestial+3D+Digital+Universes"
+    alt="Typing SVG"
+  />
+</a>
 
   <!-- 3D Glossy Badges -->
   <p>
